@@ -4,7 +4,7 @@
 
 import styled, { keyframes } from 'styled-components'
 
-import DissenterImage from './dissenter_logo.svg'
+import TheHiveImage from './thehive_logo.svg'
 import LionImage from './lion_logo.svg'
 import ImportImage from './welcome_import.svg'
 import RewardsImage from './welcome_rewards.svg'
@@ -19,7 +19,7 @@ const BaseImage = styled<{}, 'img'>('img')`
   max-width: 100%;
 `
 
-export const WelcomeDissenterImage = styled(BaseImage).attrs({ src: DissenterImage })`
+export const WelcomeTheHiveImage = styled(BaseImage).attrs({ src: TheHiveImage })`
   height: 140px;
 `
 

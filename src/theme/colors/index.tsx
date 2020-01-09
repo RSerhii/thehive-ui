@@ -18,8 +18,8 @@ const baseColors = {
   red: '#E32444',
   teal: '#20c997',
   yellow: '#FFD43B',
-  dissenter_green1: '#00d177',
-  dissenter_green2: '#00c466'
+  thehive_green1: '#00d177',
+  thehive_green2: '#00c466'
 }
 
 const white = '#FFFFFF'
@@ -201,9 +201,9 @@ const fades = {
   whiteFade15: tinyColor(white).setAlpha(.85).toHslString()
 }
 
-const dissenterColors = {
-  dissenterGreen1: baseColors.dissenter_green1,
-  dissenterGreen2: baseColors.dissenter_green2
+const thehiveColors = {
+  thehiveGreen1: baseColors.thehive_green1,
+  thehiveGreen2: baseColors.thehive_green2
 }
 
 export default {
@@ -220,7 +220,7 @@ export default {
   ...scaleTeal,
   ...scaleYellow,
   ...fades,
-  ...dissenterColors,
+  ...thehiveColors,
   white,
   black
 }

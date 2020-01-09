@@ -10,11 +10,11 @@ const theme: ITheme = {
     ...colors
   },
   color: {
-    brandBrave: colors.dissenterGreen1,
+    brandBrave: colors.thehiveGreen1,
     brandBat: colors.blurple500,
     // brave controls
-    brandBraveInteracting: colors.dissenterGreen1,
-    brandBraveActive: colors.dissenterGreen2,
+    brandBraveInteracting: colors.thehiveGreen1,
+    brandBraveActive: colors.thehiveGreen2,
     brandBraveLight: colors.green000,
     // bat controls
     brandBatInteracting: colors.blurple500,

@@ -1,6 +1,6 @@
-<p align="center"><img src="./src/features/welcome/images/dissenter_logo.svg" width="130px" height="170px"/></p>
+<p align="center"><img src="./src/features/welcome/images/thehive_logo.svg" width="130px" height="170px"/></p>
 
-# :wave: Welcome to Defiant UI 
+# :wave: Welcome to The Hive UI 
 
 This is a fork of [Brave UI](https://github.com/brave/brave-ui).
 
@@ -14,7 +14,7 @@ Here you will find a list of reusable React components used in most of Brave pro
 $ npm install
 ```
 
-## Using Defiant UI 
+## Using The Hive UI 
 
 ```
 npm run storybook-start

@@ -20,7 +20,7 @@ const getBulletStyle = (p: Props) => {
   }
 
   if (p.type === 'light') {
-    bgColor = colors.dissenterGreen1
+    bgColor = colors.thehiveGreen1
   }
 
   if (!p.checked) {
